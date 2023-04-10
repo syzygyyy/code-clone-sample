@@ -1,4 +1,5 @@
 pragma solidity ^0.4.0;
+
 contract MyConc{
     using SafeMath for uint;   
     uint a = 0x3f5b3f7c4ce4a1cf720840d4a4e4b04a2aa2a8a1;
