@@ -18,5 +18,5 @@ contract MyConc{
         uint []x;
         suicide(q);
     }
-    function foo() myModifier(100, \"hello\") constant boo;
+    function foo() myModifier(100, "hello") constant boo;
 }
